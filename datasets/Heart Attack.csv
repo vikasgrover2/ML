@@ -1,6 +1,6 @@
 age,gender,impluse,pressurehight,pressurelow,glucose,kcm,troponin,class
 64,1,66,160,83,160,1.8,0.012,negative
-21,1,94,98,46,296,6.75,1.06,positive
+21,1,,98,46,296,6.75,1.06,positive
 55,1,64,160,77,270,1.99,0.003,negative
 64,1,70,120,55,270,13.87,0.122,positive
 55,1,64,112,65,300,1.08,0.003,negative
@@ -12,7 +12,7 @@ age,gender,impluse,pressurehight,pressurelow,glucose,kcm,troponin,class
 44,0,60,166,90,102,2.39,0.006,negative
 63,0,60,150,83,198,2.39,0.013,negative
 64,1,60,199,99,92,3.43,5.37,positive
-54,0,94,122,67,97,1.42,0.012,negative
+54,0,,122,67,97,1.42,0.012,negative
 47,1,76,120,70,319,2.57,0.003,negative
 61,1,81,118,66,134,1.49,0.017,positive
 86,0,73,114,68,87,1.11,0.776,positive

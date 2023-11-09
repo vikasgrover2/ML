@@ -8,4 +8,3 @@ init.txt
 .gitignore
 .archived/
 .database/
-/.env

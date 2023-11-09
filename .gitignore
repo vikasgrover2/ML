@@ -7,3 +7,5 @@ __pycache__
 init.txt
 .gitignore
 .archived/
+.env
+.database/
